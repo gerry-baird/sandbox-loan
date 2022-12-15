@@ -314,7 +314,7 @@
       </dmn:rule>
       <dmn:rule id="_E8156BFD-0FAD-40E7-8806-54E21A1BCB3E">
         <dmn:inputEntry id="_F2800356-30D5-44CF-BBC1-5ABE1CB27C7F">
-          <dmn:text>[26..28]</dmn:text>
+          <dmn:text>[26..30]</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_2A1564CD-B4F2-4B8C-BFE4-25C43743FAE6">
           <dmn:text>"Marginal"</dmn:text>
@@ -325,7 +325,7 @@
       </dmn:rule>
       <dmn:rule id="_73312474-7FAD-4E57-A373-118C092129EA">
         <dmn:inputEntry id="_FD64947A-6766-4FF5-80AB-D9BA69720915">
-          <dmn:text>&gt;28</dmn:text>
+          <dmn:text>&gt;30</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_E9C46910-5E78-4E10-8E07-F9ABDCCFA9B4">
           <dmn:text>"Unaffordable"</dmn:text>
